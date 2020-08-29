@@ -5,4 +5,3 @@ for row in range(8):
         else:
             print(end=" ")
     print()
-a
