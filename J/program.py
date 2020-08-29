@@ -4,4 +4,4 @@ for row in range(7):
             print("*",end="")
         else:
             print(end=" ")
-    print()
+aa    print()
